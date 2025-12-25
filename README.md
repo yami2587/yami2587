@@ -112,6 +112,13 @@
 
 ---
 
+
+## 📈 GitHub Metrics (Advanced Dashboard)
+
+![Metrics](https://metrics.lecoq.io/yami2587?template=classic&isocalendar=1&languages=1&activity=1&followup=1&notable=1)
+
+---
+
 ## 🤝 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/aman-raj-dewangan-854417260  
