@@ -1,88 +1,122 @@
 # 👋 Hi, I'm Aman Raj Dewangan (@yami2587)
 
-🚀 **Python Developer | Backend Engineer | Cybersecurity Enthusiast**  
-💻 Passionate about building scalable backend systems, secure APIs, and automation-driven solutions.  
-🔐 Interested in intrusion detection, network security, and backend performance optimization.
+🚀 **Backend & Full-Stack Developer | Python • React • Cybersecurity**  
+🔐 Building secure, scalable systems across backend, frontend, and ML-powered services.
 
 ---
 
 ## 🧠 About Me
 
 - 🎓 B.Tech (Hons.) in Computer Science & Cybersecurity  
-- 🐍 Strong in **Python**, **Django**, **REST APIs**, and **SQL**
-- ⚙️ Backend experience with **Laravel**, **Core PHP**, and **CodeIgniter**
-- 🔍 Hands-on with **IDS, Port Scanning, Packet Analysis**
-- 🐳 Learning **Docker**, **FastAPI**, and advanced backend architecture
-- 🌱 Always improving system design and clean-code practices
+- 🐍 Backend-first developer with strong **Python** foundations  
+- ⚛️ Hands-on experience with **React**, **Tailwind CSS**, and modern frontend workflows  
+- 🔐 Cybersecurity enthusiast with practical exposure to **IDS, network analysis, and secure APIs**
+- 🤖 Worked on **ML & ONNX-based face recognition systems** deployed as microservices
+- ⚙️ Interested in **system design, performance, and clean architecture**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-- Python, PHP, C++, Java  
-- JavaScript (learning), TypeScript (learning)
+### 💻 Languages
+- **Python**, **JavaScript**, **PHP**
+- C++, Java
+- HTML, CSS
 
-**Backend & Frameworks**
-- Django, Django REST Framework
-- Laravel, CodeIgniter
-- Flask, FastAPI (learning)
+### ⚙️ Backend & APIs
+- Django, Django REST Framework  
+- FastAPI, Flask  
+- Laravel, CodeIgniter  
+- RESTful APIs, JWT Authentication
 
-**Databases**
+### 🎨 Frontend
+- **React**
+- **Tailwind CSS**
+- HTML5, CSS3, JavaScript (ES6+)
+- API integration & state handling
+
+### 🤖 Machine Learning & AI
+- Face Recognition Systems
+- ONNX model inference
+- ML-powered microservices
+- OpenCV, NumPy (practical usage)
+
+### 🛢️ Databases
 - MySQL, PostgreSQL, SQLite
 
-**Cybersecurity**
+### 🔐 Cybersecurity
 - Intrusion Detection Systems (IDS)
 - Port Scanning & Network Mapping
 - Packet Analysis (Wireshark)
+- Secure authentication & authorization
 
-**Tools & Platforms**
+### 🧰 Tools & Platforms
 - Git & GitHub
-- Docker
-- Linux (Security & Scripting)
-- Burp Suite, VirtualBox
+- Docker (learning & using)
+- Linux (security & scripting)
+- Postman, Burp Suite
+- VirtualBox
 
 ---
 
 ## 📌 Featured Projects
 
 🔐 **Advanced Intrusion Detection System**
-- Real-time packet sniffing & ML-based anomaly detection  
+- Real-time packet sniffing
+- ML-based anomaly detection
 - SQL-backed logging using CICIDS2017 dataset
 
 🌐 **Open Port Scanner & Network Mapper**
-- Async Python scanner with service detection  
-- Optional MySQL integration
+- Async Python scanner with service detection
+- Modular, extensible architecture
+- Optional database integration
+
+🧠 **Face Recognition Microservice**
+- ONNX-based inference pipeline
+- API-driven face verification
+- Designed for scalable microservice deployment
 
 📊 **Team Daily Task Management System (Laravel 12)**
 - Role-based dashboards (Admin / Leader / Member)
-- Secure authentication and reporting workflows
+- Secure authentication & reporting workflows
 
 🛒 **Grocery Store Web Application**
 - Django + PostgreSQL
-- Inventory, orders, analytics, JWT auth
+- Inventory, orders, analytics
+- JWT-based authentication
+
+⚛️ **Frontend Dashboards (React + Tailwind)**
+- Admin & user dashboards
+- API-driven UI
+- Clean responsive layouts
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Stable)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yami2587&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yami2587&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yami2587&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yami2587&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📈 GitHub Metrics (Advanced Dashboard)
+## 🔥 Contribution Streak
 
-![Metrics](https://metrics.lecoq.io/yami2587?template=classic&isocalendar=1&languages=1&activity=1&followup=1&notable=1)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yami2587&theme=tokyonight&hide_border=true)
+
+---
+
+## 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yami2587&theme=tokyo-night)
 
 ---
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/aman-raj-dewangan-854417260
-- 📧 Email: amanrajdewangan063@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/aman-raj-dewangan-854417260  
+- 📧 Email: amanrajdewangan063@gmail.com  
 
 ---
 
-⭐ *Always open to collaboration, backend challenges, and security-focused projects.*
+⭐ *Always open to collaboration, full-stack challenges, backend systems, and security-focused projects.*
