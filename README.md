@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aman Raj Dewangan (@yami2587)
+# 👋 Hi, I'm Aman Raj (@yami2587)
 
 🚀 **Backend & Full-Stack Developer | Python • React • Cybersecurity**  
 🔐 Building secure, scalable systems across backend, frontend, and ML-powered services.
