@@ -18,9 +18,9 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-- **Python**, **JavaScript**, **PHP**
+- **Python**, **JavaScript**, **PHP**, **Node.js**
 - C++, Java
-- HTML, CSS
+- HTML5, CSS3
 
 ### ⚙️ Backend & APIs
 - Django, Django REST Framework  
