@@ -1,93 +1,89 @@
-# 👋 Hi, I'm Aman Raj (@yami2587)
+👨‍💻 Aman Raj — Backend-Focused Full-Stack Engineer
 
-🚀 **Backend & Full-Stack Developer | Python • React • Cybersecurity**  
-🔐 Building secure, scalable systems across backend, frontend, and ML-powered services.
----
+Python • Systems • Security • Scalable APIs
 
-## 🧠 About Me
+I build fast, secure, production-ready systems — from low-level packet analysis to ML-powered microservices.
 
-- 🎓 B.Tech (Hons.) in Computer Science & Cybersecurity  
-- 🐍 Backend-first developer with strong **Python** foundations  
-- ⚛️ Hands-on experience with **React**, **Tailwind CSS**, and modern frontend workflows  
-- 🔐 Cybersecurity enthusiast with practical exposure to **IDS, network analysis, and secure APIs**
-- 🤖 Worked on **ML & ONNX-based face recognition systems** deployed as microservices
-- ⚙️ Interested in **system design, performance, and clean architecture**
+🚀 Profile Snapshot
 
----
+🎓 B.Tech (Hons.) — Computer Science & Cybersecurity
 
-## 🛠️ Tech Stack
+🧠 Backend specialist with frontend execution skills
 
-### 💻 Languages
-- **Python**, **JavaScript**, **PHP**, **Node.js**
-- C++, Java
-- HTML5, CSS3
+🔐 Security-minded developer (network + application layers)
 
-### ⚙️ Backend & APIs
-- Django, Django REST Framework  
-- FastAPI, Flask  
-- Laravel, CodeIgniter  
-- RESTful APIs, JWT Authentication
+🤖 Built real ML-powered services deployed as APIs
 
-### 🎨 Frontend
-- **React**
-- **Tailwind CSS**
-- HTML5, CSS3, JavaScript (ES6+)
-- API integration & state handling
+⚙️ Obsessed with performance, architecture, and clean code
 
-### 🤖 Machine Learning & AI
-- Face Recognition Systems
-- ONNX model inference
-- ML-powered microservices
-- OpenCV, NumPy (practical usage)
+🧰 Core Stack
 
-### 🛢️ Databases
-- MySQL, PostgreSQL, SQLite
+Languages
+Python JavaScript PHP C++ Java
 
-### 🔐 Cybersecurity
-- Intrusion Detection Systems (IDS)
-- Port Scanning & Network Mapping
-- Packet Analysis (Wireshark)
-- Secure authentication & authorization
+Backend
+Django FastAPI Flask Laravel CodeIgniter
+REST APIs JWT Auth Microservices
 
-### 🧰 Tools & Platforms
-- Git & GitHub
-- Docker (learning & using)
-- Linux (security & scripting)
-- Postman, Burp Suite
-- VirtualBox
+Frontend
+React TailwindCSS Modern JS
+API integration • State handling • Responsive UI
 
----
+AI / ML Engineering
+ONNX OpenCV NumPy
+Model inference pipelines • Vision systems
 
-## 📌 Featured Projects
+Databases
+PostgreSQL MySQL SQLite
 
-🔐 **Advanced Intrusion Detection System**
-- Real-time packet sniffing
-- ML-based anomaly detection
-- SQL-backed logging using CICIDS2017 dataset
+Security & Networking
+IDS systems • Packet analysis • Port scanning • Secure auth design
 
-🌐 **Open Port Scanner & Network Mapper**
-- Async Python scanner with service detection
-- Modular, extensible architecture
-- Optional database integration
+Tools
+Docker Linux Git Postman Burp Suite VirtualBox
 
-🧠 **Face Recognition Microservice**
-- ONNX-based inference pipeline
-- API-driven face verification
-- Designed for scalable microservice deployment
+🧠 Engineering Interests
 
-📊 **Team Daily Task Management System (Laravel 12)**
-- Role-based dashboards (Admin / Leader / Member)
-- Secure authentication & reporting workflows
+System Design
 
-🛒 **Grocery Store Web Application**
-- Django + PostgreSQL
-- Inventory, orders, analytics
-- JWT-based authentication
+Performance Optimization
 
-⚛️ **Frontend Dashboards (React + Tailwind)**
-- Admin & user dashboards
-- API-driven UI
-- Clean responsive layouts
+Scalable Architectures
+
+Secure API Design
+
+Distributed Systems
+
+🏗 Featured Projects
+🔐 Intrusion Detection System
+
+Real-time network monitoring with anomaly detection ML model trained on CICIDS2017 dataset
+→ Packet sniffing engine + SQL logging + threat detection logic
+
+🌐 Async Network Mapper
+
+Python-based port scanner with service fingerprinting
+→ Modular architecture + extensible scanning modules
+
+🤖 Face Recognition Microservice
+
+ONNX inference API for scalable face verification
+→ Optimized pipeline for real-time recognition systems
+
+📊 Team Task Manager (Laravel)
+
+Role-based dashboards with secure workflows
+→ Admin / Leader / Member permissions + reporting system
+
+🛒 Grocery Platform
+
+Full-stack Django application
+→ Inventory + Orders + Analytics + JWT Auth
+
+⚛️ React Dashboards
+
+Clean UI dashboards powered by APIs
+→ Responsive design + structured state management
 
 ---
 
