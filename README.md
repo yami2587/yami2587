@@ -95,12 +95,14 @@
 
 ---
 
-## 📊 GitHub Stats (Stable)
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yami2587&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yami2587&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yami2587&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/> </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yami2587&layout=compact&theme=tokyonight&hide_border=true)
+---
+🏆 GitHub Profile Trophy
 
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=yami2587&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" /> </p>
 ---
 
 ## 🔥 Contribution Streak
@@ -109,9 +111,9 @@
 
 ---
 
-## 📈 Activity Graph
+📈 Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yami2587&theme=tokyo-night)
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yami2587&theme=tokyo-night&hide_border=true" /> </p>
 
 ---
 
