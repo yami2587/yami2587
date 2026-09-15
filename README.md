@@ -101,6 +101,10 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yami2587&layout=compact&theme=tokyonight&hide_border=true)
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yami2587&theme=tokyonight" />
+</p>
+
 ---
 
 ## 🔥 Contribution Streak
