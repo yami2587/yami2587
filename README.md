@@ -6,6 +6,7 @@
 
 ## 🧠 About Me
 
+
 - 🎓 B.Tech (Hons.) in Computer Science & Cybersecurity  
 - 🐍 Backend-first developer with strong **Python** foundations  
 - ⚛️ Hands-on experience with **React**, **Tailwind CSS**, and modern frontend workflows  
